@@ -1,4 +1,8 @@
- ##   if message.content.lower().startswith(''):
+##x1mv\\2022\\projectname;WASbot;version:2.3\
+
+## join https://discord.gg/93V6yDPgrX to see the bot in action
+
+##   if message.content.lower().startswith(''):
  ##       await message.channel.send('WAS BOT V2 | smth ')
 
 import discord
